@@ -7,15 +7,10 @@ Mint Mod 1.2 Indev
 
 # Features
 
-Faster loading screen:
-  The first loading screen has a mint background
-  The first loading screen updates every 1ms instead of 50 (50x increase in speed)
-Save files:
-  Reset save file
-  Mint Mod save file:
-    Skins
-    Capes
-    Servers:
-      asspixel
-      archmc
-      time-legacy
+The first loading screen has a mint background
+The first loading screen updates every 1ms instead of 50 (50x increase in speed)
+
+Save file includes
+Servers
+Skins
+Capes
