@@ -16,4 +16,4 @@ To utilize item #4 of features, you have to input a special code wich can only b
 
 ## Credits
 
-"mint_background_2.png" by Photo by Qingbao Meng @ https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4
+File "mint_background_2.png" by Qingbao Meng @ https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4
