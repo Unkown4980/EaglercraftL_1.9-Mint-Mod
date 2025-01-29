@@ -4,3 +4,4 @@
 - Faster Loading Screen (up to 1ms)
 - ~~Configurable Loading Screen~~
 - Custom Background Image
+- Loading Cursor on Loading Screen
