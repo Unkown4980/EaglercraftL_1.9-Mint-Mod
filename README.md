@@ -2,5 +2,5 @@
 ## EaglercraftL_1.9 But better!
 
 - Faster Loading Screen (up to 1ms)
-x Configurable Loading Screen
+- ~~Configurable Loading Screen~~
 - Custom Background Image
